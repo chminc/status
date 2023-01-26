@@ -11,8 +11,10 @@ sites:
     url: https://decp1.6dns.net
   - name: DEWI1
     url: https://dewi.6dns.net
+    __dangerous__insecure: true
   - name: LUDA1
     url: https://luda1.6dns.net
+    __dangerous__insecure: true
   - name: LUDA2
     url: https://luda2.6dns.net
   - name: Cloud
