@@ -10,8 +10,9 @@ sites:
   - name: DECP1
     url: https://decp1.6dns.net
   - name: DEWI1
-    url: https://dewi.6dns.net
-    __dangerous__insecure: true
+    check: "tcp-ping"
+    url: dewi1.6dns.net
+    port: 3389
   - name: LUDA1
     url: https://luda1.6dns.net
     __dangerous__insecure: true
@@ -25,8 +26,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.chminc.support
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status
+  themeUrl: https://status.chminc.support/my-custom-theme.css
+  logoUrl: https://chminc.in/wp-content/uploads/2022/03/logo.png
+  favicon: https://chminc.in/wp-content/uploads/2022/03/favicon-chminc.co_.in_.png
+  name: CHM, Inc. Status
   introTitle: "**Welcome** to CHM, Inc.'s real-time and historical data on system performance."
   introMessage: Our infrastructure status. [**Get Help from here**](https://chminc.support)
   navbar:
