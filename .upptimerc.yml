@@ -26,7 +26,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
   introTitle: "**Welcome** to CHM, Inc.'s real-time and historical data on system performance."
-  introMessage: **CHM, Inc.** infrastructure status. [**Get Help from here**](https://chminc.support)
+  introMessage: **Our** infrastructure status. [**Get Help from here**](https://chminc.support)
   navbar:
     - title: Status
       href: /
