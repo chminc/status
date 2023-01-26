@@ -3,29 +3,37 @@ owner: chminc # Your GitHub organization or username, where this repository live
 repo: status # The name of this repository
 
 sites:
+  - name: Website
+    url: https://chminc.in
+  - name: cPortal
+    url: https://chminc.co.in
   - name: DECP1
     url: https://decp1.6dns.net
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: DEWI1
+    url: https://dewi.6dns.net
+  - name: LUDA1
+    url: https://luda1.6dns.net
+  - name: LUDA2
+    url: https://luda2.6dns.net
+  - name: Cloud
+    url: https://cloud.6dns.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.chminc.support
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://chminc.in/wp-content/uploads/2022/03/logo.png
+  name: Status
+  introTitle: "**Welcome** to CHM, Inc.'s real-time and historical data on system performance."
+  introMessage: **CHM, Inc.** infrastructure status. [**Get Help from here**](https://chminc.support)
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Website
+      href: https://chmorg.com
+    - title: Help Center
+      href: https://chminc.support
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
