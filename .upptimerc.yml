@@ -23,7 +23,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.chminc.support
   # baseUrl: /your-repo-name
-  logoUrl: https://chminc.in/wp-content/uploads/2022/03/logo.png
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
   introTitle: "**Welcome** to CHM, Inc.'s real-time and historical data on system performance."
   introMessage: **CHM, Inc.** infrastructure status. [**Get Help from here**](https://chminc.support)
