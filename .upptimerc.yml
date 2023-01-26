@@ -28,7 +28,7 @@ status-website:
   cname: status.chminc.support
   # baseUrl: /your-repo-name
   #themeUrl: https://status.chminc.support/my-custom-theme.css
-  theme: dark
+  theme: ocean
   logoUrl: https://chminc.in/wp-content/uploads/2022/03/logo.png
   favicon: https://chminc.in/wp-content/uploads/2022/03/favicon-chminc.co_.in_.png
   name: CHM, Inc. Status
