@@ -1,7 +1,7 @@
 url: https://chminc.co.in
-status: up
-code: 200
-responseTime: 582
-lastUpdated: 2023-01-27T23:25:15.046Z
+status: down
+code: 500
+responseTime: 1855
+lastUpdated: 2023-01-28T19:42:27.607Z
 startTime: Thu Jan 26 2023 17:17:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
