@@ -16,7 +16,7 @@
     "timeMonth": 81,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2023-02-08": 162,
+      "2023-02-08": 327,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
@@ -38,11 +38,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/chminc.co.in.ico",
     "slug": "c-portal",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.09%",
-    "uptimeYear": "99.09%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.10%",
     "time": 1484,
     "timeDay": 1792,
     "timeWeek": 1715,
@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-08": 162,
+      "2023-02-08": 327,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
@@ -145,17 +145,19 @@
     "url": "https://cloud.6dns.net",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.6dns.net.ico",
     "slug": "cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 873,
-    "timeDay": 797,
-    "timeWeek": 945,
-    "timeMonth": 873,
-    "timeYear": 873,
-    "dailyMinutesDown": {}
+    "time": 909,
+    "timeDay": 1178,
+    "timeWeek": 1021,
+    "timeMonth": 909,
+    "timeYear": 909,
+    "dailyMinutesDown": {
+      "2023-02-08": 0
+    }
   }
 ]
