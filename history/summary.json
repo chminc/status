@@ -16,7 +16,7 @@
     "timeMonth": 87,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2023-03-02": 39,
+      "2023-03-02": 522,
       "2023-03-01": 1440,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
@@ -82,11 +82,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/decp1.6dns.net.ico",
     "slug": "decp-1",
     "status": "up",
-    "uptime": "50.57%",
+    "uptime": "51.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "72.03%",
-    "uptimeMonth": "65.02%",
-    "uptimeYear": "50.57%",
+    "uptimeWeek": "76.82%",
+    "uptimeMonth": "66.12%",
+    "uptimeYear": "51.05%",
     "time": 407,
     "timeDay": 470,
     "timeWeek": 464,
@@ -154,9 +154,9 @@
     "url": "https://luda2.6dns.net",
     "icon": "https://icons.duckduckgo.com/ip3/luda2.6dns.net.ico",
     "slug": "luda-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -165,7 +165,9 @@
     "timeWeek": 445,
     "timeMonth": 415,
     "timeYear": 405,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-02": 0
+    }
   },
   {
     "name": "Cloud",
