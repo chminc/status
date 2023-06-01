@@ -16,7 +16,7 @@
     "timeMonth": 97,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2023-06-01": 45,
+      "2023-06-01": 576,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -175,11 +175,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/decp1.6dns.net.ico",
     "slug": "decp-1",
     "status": "up",
-    "uptime": "86.23%",
+    "uptime": "86.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.90%",
     "uptimeMonth": "99.06%",
-    "uptimeYear": "86.23%",
+    "uptimeYear": "86.27%",
     "time": 466,
     "timeDay": 465,
     "timeWeek": 435,
@@ -252,17 +252,19 @@
     "url": "https://cloud.6dns.net",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.6dns.net.ico",
     "slug": "cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 925,
-    "timeDay": 857,
-    "timeWeek": 828,
-    "timeMonth": 1003,
-    "timeYear": 925,
-    "dailyMinutesDown": {}
+    "time": 927,
+    "timeDay": 1014,
+    "timeWeek": 871,
+    "timeMonth": 1008,
+    "timeYear": 927,
+    "dailyMinutesDown": {
+      "2023-06-01": 0
+    }
   }
 ]
