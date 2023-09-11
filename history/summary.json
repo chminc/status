@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2023-09-11": 855,
+      "2023-09-11": 868,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
@@ -290,7 +290,7 @@
     "timeMonth": 0,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2023-09-11": 855,
+      "2023-09-11": 868,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
@@ -427,19 +427,19 @@
     "url": "https://cloud.6dns.net",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.6dns.net.ico",
     "slug": "cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
     "time": 986,
-    "timeDay": 1200,
-    "timeWeek": 1143,
-    "timeMonth": 1191,
+    "timeDay": 1088,
+    "timeWeek": 1111,
+    "timeMonth": 1181,
     "timeYear": 986,
     "dailyMinutesDown": {
-      "2023-09-11": 1,
+      "2023-09-11": 13,
       "2023-07-22": 116
     }
   }
