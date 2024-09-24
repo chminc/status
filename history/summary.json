@@ -10,13 +10,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 119,
+    "time": 122,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-23": 41,
+      "2024-09-24": 40,
+      "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
       "2024-09-20": 1440,
@@ -379,8 +380,7 @@
       "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
-      "2023-09-26": 1440,
-      "2023-09-25": 1440
+      "2023-09-26": 1440
     }
   },
   {
@@ -392,12 +392,12 @@
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.83%",
+    "uptimeMonth": "98.95%",
     "uptimeYear": "99.73%",
-    "time": 1148,
-    "timeDay": 1489,
-    "timeWeek": 1423,
-    "timeMonth": 1025,
+    "time": 1149,
+    "timeDay": 1488,
+    "timeWeek": 1429,
+    "timeMonth": 1125,
     "timeYear": 948,
     "dailyMinutesDown": {
       "2024-09-12": 217,
@@ -413,8 +413,7 @@
       "2024-01-16": 67,
       "2024-01-15": 1,
       "2023-12-20": 25,
-      "2023-09-26": 46,
-      "2023-09-25": 38
+      "2023-09-26": 46
     }
   },
   {
@@ -423,18 +422,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/decp1.6dns.net.ico",
     "slug": "decp-1",
     "status": "down",
-    "uptime": "24.06%",
+    "uptime": "24.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 467,
+    "time": 469,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-23": 41,
+      "2024-09-24": 40,
+      "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
       "2024-09-20": 1440,
@@ -797,8 +797,7 @@
       "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
-      "2023-09-26": 1440,
-      "2023-09-25": 1440
+      "2023-09-26": 1440
     }
   },
   {
@@ -813,8 +812,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 121,
-    "timeDay": 95,
-    "timeWeek": 106,
+    "timeDay": 96,
+    "timeWeek": 105,
     "timeMonth": 119,
     "timeYear": 118,
     "dailyMinutesDown": {
@@ -829,18 +828,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/luda1.6dns.net.ico",
     "slug": "luda-1",
     "status": "down",
-    "uptime": "39.75%",
+    "uptime": "39.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.19%",
-    "time": 441,
+    "uptimeYear": "0.00%",
+    "time": 440,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 500,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-23": 41,
+      "2024-09-24": 41,
+      "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
       "2024-09-20": 1440,
@@ -1203,8 +1203,7 @@
       "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
-      "2023-09-26": 1440,
-      "2023-09-25": 1440
+      "2023-09-26": 1440
     }
   },
   {
@@ -1219,9 +1218,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1003,
-    "timeDay": 983,
-    "timeWeek": 911,
-    "timeMonth": 951,
+    "timeDay": 855,
+    "timeWeek": 903,
+    "timeMonth": 952,
     "timeYear": 989,
     "dailyMinutesDown": {
       "2024-06-11": 17,
