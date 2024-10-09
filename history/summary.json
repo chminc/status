@@ -10,13 +10,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 106,
+    "time": 110,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-08": 40,
+      "2024-10-09": 40,
+      "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
@@ -379,8 +380,7 @@
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
-      "2023-10-11": 1440,
-      "2023-10-10": 1440
+      "2023-10-11": 1440
     }
   },
   {
@@ -392,13 +392,13 @@
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.95%",
+    "uptimeMonth": "98.98%",
     "uptimeYear": "99.80%",
     "time": 1152,
-    "timeDay": 1232,
-    "timeWeek": 1453,
-    "timeMonth": 1339,
-    "timeYear": 975,
+    "timeDay": 1194,
+    "timeWeek": 1432,
+    "timeMonth": 1353,
+    "timeYear": 977,
     "dailyMinutesDown": {
       "2024-09-12": 217,
       "2024-09-11": 229,
@@ -421,7 +421,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/decp1.6dns.net.ico",
     "slug": "decp-1",
     "status": "down",
-    "uptime": "23.48%",
+    "uptime": "23.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -432,7 +432,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-08": 40,
+      "2024-10-09": 40,
+      "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
@@ -795,8 +796,7 @@
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
-      "2023-10-11": 1440,
-      "2023-10-10": 1440
+      "2023-10-11": 1440
     }
   },
   {
@@ -812,7 +812,7 @@
     "uptimeYear": "99.78%",
     "time": 121,
     "timeDay": 155,
-    "timeWeek": 111,
+    "timeWeek": 118,
     "timeMonth": 116,
     "timeYear": 117,
     "dailyMinutesDown": {
@@ -827,7 +827,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/luda1.6dns.net.ico",
     "slug": "luda-1",
     "status": "down",
-    "uptime": "38.79%",
+    "uptime": "38.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -838,7 +838,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-08": 40,
+      "2024-10-09": 40,
+      "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
@@ -1201,8 +1202,7 @@
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
-      "2023-10-11": 1440,
-      "2023-10-10": 1440
+      "2023-10-11": 1440
     }
   },
   {
@@ -1216,11 +1216,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1006,
-    "timeDay": 1212,
-    "timeWeek": 931,
-    "timeMonth": 987,
-    "timeYear": 983,
+    "time": 1007,
+    "timeDay": 1115,
+    "timeWeek": 964,
+    "timeMonth": 989,
+    "timeYear": 984,
     "dailyMinutesDown": {
       "2024-06-11": 17,
       "2024-03-25": 34
