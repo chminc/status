@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-14": 711,
+      "2025-03-15": 42,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -379,8 +380,7 @@
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 1440
+      "2024-03-16": 1440
     }
   },
   {
@@ -390,17 +390,16 @@
     "slug": "c-portal",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 1124,
-    "timeDay": 1824,
-    "timeWeek": 1827,
-    "timeMonth": 1696,
-    "timeYear": 1266,
+    "time": 1126,
+    "timeDay": 1782,
+    "timeWeek": 1814,
+    "timeMonth": 1712,
+    "timeYear": 1268,
     "dailyMinutesDown": {
-      "2025-03-14": 7,
       "2025-02-12": 18,
       "2024-11-28": 29,
       "2024-09-12": 217,
@@ -420,7 +419,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/decp1.6dns.net.ico",
     "slug": "decp-1",
     "status": "down",
-    "uptime": "18.73%",
+    "uptime": "18.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -431,7 +430,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-14": 711,
+      "2025-03-15": 43,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -794,8 +794,7 @@
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 1440
+      "2024-03-16": 1440
     }
   },
   {
@@ -810,8 +809,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 118,
-    "timeDay": 154,
-    "timeWeek": 142,
+    "timeDay": 112,
+    "timeWeek": 144,
     "timeMonth": 124,
     "timeYear": 118,
     "dailyMinutesDown": {
@@ -827,7 +826,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/luda1.6dns.net.ico",
     "slug": "luda-1",
     "status": "down",
-    "uptime": "30.93%",
+    "uptime": "30.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -838,7 +837,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-14": 711,
+      "2025-03-15": 43,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -1201,8 +1201,7 @@
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 1440
+      "2024-03-16": 1440
     }
   },
   {
@@ -1217,10 +1216,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1025,
-    "timeDay": 1263,
-    "timeWeek": 1227,
-    "timeMonth": 1092,
-    "timeYear": 1029,
+    "timeDay": 1046,
+    "timeWeek": 1200,
+    "timeMonth": 1094,
+    "timeYear": 1030,
     "dailyMinutesDown": {
       "2024-12-02": 21,
       "2024-11-12": 18,
