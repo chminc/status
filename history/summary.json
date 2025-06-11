@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-11": 50,
+      "2025-06-11": 339,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -436,7 +436,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-11": 50,
+      "2025-06-11": 339,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -844,7 +844,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-11": 50,
+      "2025-06-11": 339,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -1216,9 +1216,9 @@
     "url": "https://cloud.6dns.net",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.6dns.net.ico",
     "slug": "cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -1228,6 +1228,7 @@
     "timeMonth": 1303,
     "timeYear": 1180,
     "dailyMinutesDown": {
+      "2025-06-11": 0,
       "2025-04-09": 29,
       "2024-12-02": 21,
       "2024-11-12": 18
