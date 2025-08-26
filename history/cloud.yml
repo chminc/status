@@ -1,7 +1,7 @@
 url: https://cloud.6dns.net
-status: up
-code: 200
-responseTime: 970
-lastUpdated: 2025-08-25T23:23:11.699Z
+status: down
+code: 503
+responseTime: 1503
+lastUpdated: 2025-08-26T07:23:54.174Z
 startTime: 2023-01-26T17:17:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
