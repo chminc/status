@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-18": 69,
+      "2026-02-19": 68,
+      "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
@@ -379,8 +380,7 @@
       "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
-      "2025-02-20": 1440,
-      "2025-02-19": 1440
+      "2025-02-20": 1440
     }
   },
   {
@@ -391,13 +391,13 @@
     "status": "up",
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.73%",
-    "uptimeMonth": "96.72%",
+    "uptimeWeek": "97.18%",
+    "uptimeMonth": "96.81%",
     "uptimeYear": "99.28%",
-    "time": 2095,
-    "timeDay": 1106,
-    "timeWeek": 1012,
-    "timeMonth": 1441,
+    "time": 2096,
+    "timeDay": 1239,
+    "timeWeek": 1015,
+    "timeMonth": 1482,
     "timeYear": 2245,
     "dailyMinutesDown": {
       "2026-02-16": 174,
@@ -466,7 +466,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/decp1.6dns.net.ico",
     "slug": "decp-1",
     "status": "down",
-    "uptime": "13.02%",
+    "uptime": "13.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -477,7 +477,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-18": 69,
+      "2026-02-19": 68,
+      "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
@@ -840,8 +841,7 @@
       "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
-      "2025-02-20": 1440,
-      "2025-02-19": 1440
+      "2025-02-20": 1440
     }
   },
   {
@@ -856,9 +856,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.88%",
     "time": 118,
-    "timeDay": 94,
-    "timeWeek": 115,
-    "timeMonth": 117,
+    "timeDay": 105,
+    "timeWeek": 108,
+    "timeMonth": 116,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2025-11-24": 882,
@@ -885,7 +885,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/luda1.6dns.net.ico",
     "slug": "luda-1",
     "status": "down",
-    "uptime": "21.51%",
+    "uptime": "21.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -896,7 +896,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-18": 69,
+      "2026-02-19": 68,
+      "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
@@ -1259,8 +1260,7 @@
       "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
-      "2025-02-20": 1440,
-      "2025-02-19": 1440
+      "2025-02-20": 1440
     }
   },
   {
@@ -1274,11 +1274,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.47%",
     "uptimeYear": "98.48%",
-    "time": 1457,
+    "time": 1458,
     "timeDay": 1673,
-    "timeWeek": 1667,
-    "timeMonth": 2540,
-    "timeYear": 1558,
+    "timeWeek": 1591,
+    "timeMonth": 2528,
+    "timeYear": 1559,
     "dailyMinutesDown": {
       "2026-01-27": 704,
       "2026-01-26": 1440,
