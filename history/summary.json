@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-22": 1191,
+      "2026-03-22": 1319,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
       "2026-03-19": 1440,
@@ -388,17 +388,17 @@
     "url": "https://chminc.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/chminc.co.in.ico",
     "slug": "c-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "92.09%",
+    "uptimeDay": "92.08%",
     "uptimeWeek": "96.49%",
-    "uptimeMonth": "97.14%",
-    "uptimeYear": "99.24%",
+    "uptimeMonth": "97.22%",
+    "uptimeYear": "99.25%",
     "time": 2071,
-    "timeDay": 937,
-    "timeWeek": 985,
-    "timeMonth": 1286,
-    "timeYear": 2140,
+    "timeDay": 939,
+    "timeWeek": 984,
+    "timeMonth": 1290,
+    "timeYear": 2139,
     "dailyMinutesDown": {
       "2026-03-22": 41,
       "2026-03-21": 107,
@@ -456,8 +456,7 @@
       "2025-12-25": 45,
       "2025-12-24": 44,
       "2025-12-23": 45,
-      "2025-12-21": 19,
-      "2025-12-20": 35
+      "2025-12-21": 19
     }
   },
   {
@@ -477,7 +476,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-22": 1191,
+      "2026-03-22": 1320,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
       "2026-03-19": 1440,
@@ -897,7 +896,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-22": 1191,
+      "2026-03-22": 1320,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
       "2026-03-19": 1440,
