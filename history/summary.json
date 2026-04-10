@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-10": 1221,
+      "2026-04-10": 1420,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
@@ -388,17 +388,17 @@
     "url": "https://chminc.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/chminc.co.in.ico",
     "slug": "c-portal",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "90.78%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "93.67%",
     "uptimeWeek": "95.15%",
-    "uptimeMonth": "95.99%",
-    "uptimeYear": "99.13%",
-    "time": 2017,
-    "timeDay": 984,
-    "timeWeek": 1228,
-    "timeMonth": 1076,
-    "timeYear": 2089,
+    "uptimeMonth": "96.04%",
+    "uptimeYear": "99.15%",
+    "time": 2016,
+    "timeDay": 951,
+    "timeWeek": 1205,
+    "timeMonth": 1070,
+    "timeYear": 2088,
     "dailyMinutesDown": {
       "2026-04-10": 91,
       "2026-04-09": 118,
@@ -456,8 +456,7 @@
       "2026-01-11": 94,
       "2026-01-09": 67,
       "2026-01-08": 29,
-      "2026-01-07": 22,
-      "2026-01-06": 119
+      "2026-01-07": 22
     }
   },
   {
@@ -477,7 +476,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-10": 1221,
+      "2026-04-10": 1420,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
@@ -858,7 +857,7 @@
     "time": 124,
     "timeDay": 106,
     "timeWeek": 125,
-    "timeMonth": 120,
+    "timeMonth": 121,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2026-02-23": 40,
@@ -895,7 +894,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-10": 1221,
+      "2026-04-10": 1420,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
@@ -1276,8 +1275,8 @@
     "time": 1526,
     "timeDay": 1060,
     "timeWeek": 2117,
-    "timeMonth": 2086,
-    "timeYear": 1669,
+    "timeMonth": 2096,
+    "timeYear": 1671,
     "dailyMinutesDown": {
       "2026-03-27": 401,
       "2026-01-27": 704,
