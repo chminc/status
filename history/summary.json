@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-16": 84,
+      "2026-04-16": 772,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
@@ -388,18 +388,19 @@
     "url": "https://chminc.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/chminc.co.in.ico",
     "slug": "c-portal",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "81.67%",
-    "uptimeWeek": "87.74%",
-    "uptimeMonth": "94.21%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "92.46%",
+    "uptimeWeek": "88.49%",
+    "uptimeMonth": "94.56%",
     "uptimeYear": "99.05%",
     "time": 1983,
-    "timeDay": 931,
-    "timeWeek": 964,
+    "timeDay": 943,
+    "timeWeek": 960,
     "timeMonth": 1041,
-    "timeYear": 2047,
+    "timeYear": 2028,
     "dailyMinutesDown": {
+      "2026-04-16": 0,
       "2026-04-15": 264,
       "2026-04-14": 105,
       "2026-04-13": 289,
@@ -449,7 +450,7 @@
       "2026-01-28": 94,
       "2026-01-27": 92,
       "2026-01-25": 140,
-      "2026-01-24": 60
+      "2026-01-24": 23
     }
   },
   {
@@ -469,7 +470,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-16": 84,
+      "2026-04-16": 772,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
@@ -875,7 +876,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/luda1.6dns.net.ico",
     "slug": "luda-1",
     "status": "down",
-    "uptime": "20.47%",
+    "uptime": "20.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -886,7 +887,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-16": 84,
+      "2026-04-16": 772,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
