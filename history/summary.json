@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 3,
+      "2026-05-26": 13,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -388,17 +388,17 @@
     "url": "https://chminc.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/chminc.co.in.ico",
     "slug": "c-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "97.74%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "98.96%",
     "time": 2016,
-    "timeDay": 1190,
-    "timeWeek": 1478,
-    "timeMonth": 1845,
-    "timeYear": 1997,
+    "timeDay": 1197,
+    "timeWeek": 1477,
+    "timeMonth": 1837,
+    "timeYear": 1996,
     "dailyMinutesDown": {
       "2026-02-08": 27,
       "2026-02-11": 46,
@@ -461,7 +461,7 @@
       "2026-05-21": 236,
       "2026-05-23": 12,
       "2026-05-22": 12,
-      "2026-05-26": 1
+      "2026-05-26": 9
     }
   },
   {
@@ -481,7 +481,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 4,
+      "2026-05-26": 13,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -861,7 +861,7 @@
     "uptimeYear": "96.97%",
     "time": 123,
     "timeDay": 95,
-    "timeWeek": 118,
+    "timeWeek": 116,
     "timeMonth": 115,
     "timeYear": 126,
     "dailyMinutesDown": {
@@ -898,7 +898,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 4,
+      "2026-05-26": 13,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -1277,10 +1277,10 @@
     "uptimeMonth": "98.51%",
     "uptimeYear": "98.28%",
     "time": 1600,
-    "timeDay": 1475,
-    "timeWeek": 2845,
-    "timeMonth": 2034,
-    "timeYear": 1649,
+    "timeDay": 1030,
+    "timeWeek": 2663,
+    "timeMonth": 2003,
+    "timeYear": 1648,
     "dailyMinutesDown": {
       "2025-11-13": 933,
       "2025-11-12": 943,
