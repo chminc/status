@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 13,
+      "2026-05-26": 120,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -390,17 +390,17 @@
     "slug": "c-portal",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "97.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.42%",
+    "uptimeMonth": "97.74%",
     "uptimeYear": "98.96%",
     "time": 2016,
     "timeDay": 1197,
-    "timeWeek": 1477,
+    "timeWeek": 1492,
     "timeMonth": 1837,
     "timeYear": 1996,
     "dailyMinutesDown": {
-      "2026-02-08": 27,
+      "2026-02-08": 46,
       "2026-02-11": 46,
       "2026-02-12": 24,
       "2026-02-14": 39,
@@ -460,8 +460,7 @@
       "2026-05-18": 41,
       "2026-05-21": 236,
       "2026-05-23": 12,
-      "2026-05-22": 12,
-      "2026-05-26": 9
+      "2026-05-22": 12
     }
   },
   {
@@ -481,7 +480,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 13,
+      "2026-05-26": 121,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -861,7 +860,7 @@
     "uptimeYear": "96.97%",
     "time": 123,
     "timeDay": 95,
-    "timeWeek": 116,
+    "timeWeek": 112,
     "timeMonth": 115,
     "timeYear": 126,
     "dailyMinutesDown": {
@@ -898,7 +897,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 13,
+      "2026-05-26": 121,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -1278,7 +1277,7 @@
     "uptimeYear": "98.28%",
     "time": 1600,
     "timeDay": 1030,
-    "timeWeek": 2663,
+    "timeWeek": 2740,
     "timeMonth": 2003,
     "timeYear": 1648,
     "dailyMinutesDown": {
