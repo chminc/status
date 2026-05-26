@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 120,
+      "2026-05-26": 856,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -480,7 +480,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 121,
+      "2026-05-26": 856,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -886,7 +886,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/luda1.6dns.net.ico",
     "slug": "luda-1",
     "status": "down",
-    "uptime": "19.80%",
+    "uptime": "19.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -897,7 +897,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 121,
+      "2026-05-26": 856,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -1269,16 +1269,16 @@
     "url": "https://cloud.6dns.net",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.6dns.net.ico",
     "slug": "cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.51%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "93.50%",
     "uptimeMonth": "98.51%",
     "uptimeYear": "98.28%",
-    "time": 1600,
-    "timeDay": 1030,
-    "timeWeek": 2740,
-    "timeMonth": 2003,
+    "time": 1601,
+    "timeDay": 1326,
+    "timeWeek": 2628,
+    "timeMonth": 1991,
     "timeYear": 1648,
     "dailyMinutesDown": {
       "2025-11-13": 933,
@@ -1291,7 +1291,8 @@
       "2026-01-24": 1440,
       "2026-01-23": 904,
       "2026-03-27": 401,
-      "2026-05-20": 654
+      "2026-05-20": 654,
+      "2026-05-26": 0
     }
   }
 ]
