@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-25": 111,
+      "2026-06-25": 125,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
@@ -390,9 +390,9 @@
     "slug": "c-portal",
     "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "79.13%",
-    "uptimeWeek": "79.13%",
-    "uptimeMonth": "79.97%",
+    "uptimeDay": "78.20%",
+    "uptimeWeek": "79.00%",
+    "uptimeMonth": "79.94%",
     "uptimeYear": "97.65%",
     "time": 1992,
     "timeDay": 797,
@@ -458,7 +458,7 @@
       "2026-06-22": 153,
       "2026-06-23": 206,
       "2026-06-24": 367,
-      "2026-06-25": 19
+      "2026-06-25": 32
     }
   },
   {
@@ -467,7 +467,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/decp1.6dns.net.ico",
     "slug": "decp-1",
     "status": "down",
-    "uptime": "11.70%",
+    "uptime": "11.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -478,7 +478,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-25": 112,
+      "2026-06-25": 125,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
@@ -895,7 +895,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-25": 112,
+      "2026-06-25": 125,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
