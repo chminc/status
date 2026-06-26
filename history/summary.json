@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-26": 95,
+      "2026-06-26": 354,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -388,16 +388,16 @@
     "url": "https://chminc.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/chminc.co.in.ico",
     "slug": "c-portal",
-    "status": "down",
-    "uptime": "99.30%",
-    "uptimeDay": "77.34%",
-    "uptimeWeek": "79.06%",
-    "uptimeMonth": "79.23%",
-    "uptimeYear": "97.60%",
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "76.19%",
+    "uptimeWeek": "76.50%",
+    "uptimeMonth": "78.64%",
+    "uptimeYear": "97.55%",
     "time": 1988,
-    "timeDay": 938,
-    "timeWeek": 1002,
-    "timeMonth": 1667,
+    "timeDay": 1001,
+    "timeWeek": 1007,
+    "timeMonth": 1663,
     "timeYear": 1914,
     "dailyMinutesDown": {
       "2026-03-22": 34,
@@ -459,7 +459,7 @@
       "2026-06-23": 206,
       "2026-06-24": 367,
       "2026-06-25": 343,
-      "2026-06-26": 1
+      "2026-06-26": 260
     }
   },
   {
@@ -468,7 +468,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/decp1.6dns.net.ico",
     "slug": "decp-1",
     "status": "down",
-    "uptime": "11.69%",
+    "uptime": "11.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -479,7 +479,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-26": 95,
+      "2026-06-26": 355,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -859,7 +859,7 @@
     "uptimeYear": "96.97%",
     "time": 124,
     "timeDay": 111,
-    "timeWeek": 133,
+    "timeWeek": 131,
     "timeMonth": 121,
     "timeYear": 126,
     "dailyMinutesDown": {
@@ -896,7 +896,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-26": 95,
+      "2026-06-26": 355,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -1276,7 +1276,7 @@
     "uptimeYear": "98.01%",
     "time": 1644,
     "timeDay": 1123,
-    "timeWeek": 2598,
+    "timeWeek": 2627,
     "timeMonth": 1694,
     "timeYear": 1660,
     "dailyMinutesDown": {
