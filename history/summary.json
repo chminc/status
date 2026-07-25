@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 514,
+      "2026-07-25": 613,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -388,19 +388,19 @@
     "url": "https://chminc.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/chminc.co.in.ico",
     "slug": "c-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "87.87%",
-    "uptimeWeek": "53.72%",
-    "uptimeMonth": "83.90%",
-    "uptimeYear": "96.56%",
-    "time": 1931,
-    "timeDay": 936,
-    "timeWeek": 1015,
-    "timeMonth": 1210,
+    "uptimeDay": "87.81%",
+    "uptimeWeek": "53.71%",
+    "uptimeMonth": "83.89%",
+    "uptimeYear": "96.58%",
+    "time": 1930,
+    "timeDay": 888,
+    "timeWeek": 1003,
+    "timeMonth": 1204,
     "timeYear": 1848,
     "dailyMinutesDown": {
-      "2026-04-13": 286,
+      "2026-04-13": 196,
       "2026-04-14": 105,
       "2026-04-15": 264,
       "2026-04-16": 98,
@@ -461,7 +461,7 @@
       "2026-07-21": 1440,
       "2026-07-20": 1436,
       "2026-07-23": 290,
-      "2026-07-25": 175
+      "2026-07-25": 176
     }
   },
   {
@@ -481,7 +481,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 514,
+      "2026-07-25": 613,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -897,7 +897,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 514,
+      "2026-07-25": 613,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
